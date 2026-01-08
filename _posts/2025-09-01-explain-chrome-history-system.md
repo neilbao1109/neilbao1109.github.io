@@ -1,5 +1,5 @@
 ---
-title: Explain Chrome History System 
+title: Chrome History System 
 date: 2025-09-01 10:10:00 +0800
 categories: [Chrome]
 tags: [history service]
