@@ -1,6 +1,6 @@
 ---
 title: A Sequential Multi-Modal Information Transfer Network for E-Commerce Micro-Video Recommendations 
-date: 2024-07-11 11:00:00 +0800
+date: 2024-06-25 11:00:00 +0800
 categories: [Paper, Recommendation]
 tags: [multi-modal]
 render_with_liquid: false
